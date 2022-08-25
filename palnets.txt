@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+table,
+th,
+td {
+border: 1px solid black;
+}
+</style>
+</head>
+
+<body>
+<div>
+<h1>Planetary Data</h1>
+<table>
+<tr>
+<th></th>
+<th>Planet</th>
+<th>Atmospheric gasses</th>
+<th>Moons</th>
+<th>Rings</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Mercury</td>
+<th></th>
+<th>0</th>
+<th>No</th>
+</tr>
+<tr>
+<td>2</td>
+<td>Venus</td>
+<th>Carbon Dioxide, Nitrogen</th>
+<th>0</th>
+<th>No</th>
+</tr>
+<tr>
+<td>3</td>
+<td>Earth</td>
+<th>Nitrogen, Oxygen</th>
+<th>1</th>
+<th>No</th>
+</tr>
+<tr>
+<td>4</td>
+<td>Jupitor</td>
+<th>Hydrogen, Helium</th>
+<th>79</th>
+<th>Yes</th>
+</tr>
+<tr>
+<td>5</td>
+<td>Saturn</td>
+<th>Hydrogen, Helium</th>
+<th>83</th>
+<th>Yes</th>
+</tr>
+<tr>
+<td>6</td>
+<td>Uranus</td>
+<th>Hydrogen, Helium, Methane</th>
+<th>27</th>
+<th>Yes</th>
+</tr>
+</table>
+</div>
+</body>
+
+</html>
